@@ -1,5 +1,5 @@
 123
-235
+234 (das hier wurde in commit 3 geändert)
 #34
 asd
 asd
@@ -7,3 +7,4 @@ test
 Das habe ich in commit "1" geschrieben
 und das hier habe ich in commit 2 geändert
 Das hier wurde in commit "2" geschrieben
+Das hier wurde in commit "3" geschrieben
